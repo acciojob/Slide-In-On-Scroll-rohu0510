@@ -1,0 +1,4 @@
+{
+    "testRepo": "Slide-In-On-Scroll-Solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
